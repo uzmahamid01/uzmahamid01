@@ -1,4 +1,4 @@
-Hi <img src="https://github.com/uzmahamid01/uzmahamid01/assets/95444550/59c21d48-4615-4977-a5cb-81a93b210d24" alt="IMG_6267" width="50" height="50"> My name is Uzma Hamid
+Hi! My name is Uzma Hamid
 ==================================================================================================================================
 
 <img src="https://github.com/uzmahamid01/uzmahamid01/assets/95444550/59c21d48-4615-4977-a5cb-81a93b210d24" alt="IMG_6267" width="250" height="250" align="left">
