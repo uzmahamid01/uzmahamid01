@@ -1,4 +1,3 @@
-Hi! ![Wave](https://www.google.com/handwave.gif) My name is Uzma Hamid
 Hi 👋 My name is Uzma Hamid
 ==================================================================================================================================
 
