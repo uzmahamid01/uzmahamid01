@@ -1,4 +1,4 @@
-Hi! ![Wave](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif) My name is Uzma Hamid
+Hi! ![Wave](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F352266002105451635%2F&psig=AOvVaw21GUj8_oHLGyka4Q4-filr&ust=1708658583961000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDDr6-AvoQDFQAAAAAdAAAAABAE.gif) My name is Uzma Hamid
 ==================================================================================================================================
 
 <img src="https://github.com/uzmahamid01/uzmahamid01/assets/95444550/59c21d48-4615-4977-a5cb-81a93b210d24" alt="IMG_6267" width="250" height="250" align="left">
