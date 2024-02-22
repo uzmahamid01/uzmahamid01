@@ -9,7 +9,7 @@ I'm a Junior studying Computer Science with a Cybersecurity emphasis at Texas A&
 * 🧠  I'm learning Building rational AI agents using uninformed search
 * 🤝  I'm open to collaborating on Projects
 
-<img src="https://github.com/uzmahamid01/uzmahamid01/assets/95444550/59c21d48-4615-4977-a5cb-81a93b210d24" alt="IMG_6267" width="200" height="200" align="right">
+<img src="https://github.com/uzmahamid01/uzmahamid01/assets/95444550/59c21d48-4615-4977-a5cb-81a93b210d24" alt="IMG_6267" width="300" height="300" align="left">
   
 ### Skills
 
