@@ -1,7 +1,7 @@
 Hi 👋 My name is Uzma Hamid
 ==================================================================================================================================
 
-<img src="https://github.com/uzmahamid01/uzmahamid01/assets/95444550/59c21d48-4615-4977-a5cb-81a93b210d24" alt="IMG_6267" width="250" height="250" align="left">
+<img src="https://github.com/uzmahamid01/uzmahamid01/assets/95444550/59c21d48-4615-4977-a5cb-81a93b210d24" alt="IMG_6267" width="240" height="240" align="left">
 
 I'm a Junior studying Computer Science with a Cybersecurity emphasis at Texas A&M University. I bring a diverse background in various programming languages and technical skills. As a dedicated problem solver, I'm deeply passionate about exploring the realms of software development. Let's code our way through challenges and innovate together! 💻🔐✨
 
