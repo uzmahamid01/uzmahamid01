@@ -1,17 +1,13 @@
-![IMG_6267](https://github.com/uzmahamid01/uzmahamid01/assets/95444550/164fd4fe-3cc9-4ad8-a8f6-b5bb32e38e2d)Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Uzma Hamid
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Uzma Hamid
 ==================================================================================================================================
 
 I'm a Junior studying Computer Science with a Cybersecurity emphasis at Texas A&M University. I bring a diverse background in various programming languages and technical skills. As a dedicated problem solver, I'm deeply passionate about exploring the realms of software development. Let's code our way through challenges and innovate together! 💻🔐✨
 
-* 🌍  I'm based in Texas
+* 🌍  I'm based in Texas                                                  ![IMG_6267](https://github.com/uzmahamid01/uzmahamid01/assets/95444550/59c21d48-4615-4977-a5cb-81a93b210d24)
 * 🖥️  See my portfolio at [My Portfolio](http://people.tamu.edu/~uzma_hamid)                                    
-* ✉️  You can contact me at [uzma\_hamid@tamu.edu](mailto:uzma_hamid@tamu.edu)
+* ✉️  You can contact me at [uzma\_hamid@tamu.edu](mailto:uzma_hamid@tamu.edu)          
 * 🧠  I'm learning Building rational AI agents using uninformed search
 * 🤝  I'm open to collaborating on Projects
-
-![IMG_6267](https://github.com/uzmahamid01/uzmahamid01/assets/95444550/59c21d48-4615-4977-a5cb-81a93b210d24)
-
-
 
   
 ### Skills
