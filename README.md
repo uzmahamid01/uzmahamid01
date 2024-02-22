@@ -3,7 +3,7 @@ Hi <img src="https://github.com/uzmahamid01/uzmahamid01/assets/95444550/59c21d48
 
 ==================================================================================================================================
 
-<img src="https://github.com/uzmahamid01/uzmahamid01/assets/95444550/59c21d48-4615-4977-a5cb-81a93b210d24" alt="IMG_6267" width="300" height="300" align="left">
+<img src="https://github.com/uzmahamid01/uzmahamid01/assets/95444550/59c21d48-4615-4977-a5cb-81a93b210d24" alt="IMG_6267" width="250" height="250" align="left">
 
 
 
