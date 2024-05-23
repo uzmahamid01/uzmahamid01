@@ -7,7 +7,8 @@ Hello 🌍, I am studying Computer Science with a Cybersecurity emphasis at Texa
 
 
 
-* 🧠  I am learning DSA actively and grinding leetcode.               
+* 🧠  I am learning DSA actively and grinding leetcode.
+* 🧠  I am building an AI powered fasion stylist app.        
 * 🤝  I'm open to collaborating on Projects.
 * 🖥️  See my portfolio at [My Portfolio](http://people.tamu.edu/~uzma_hamid)                 
 * ✉️  You can contact me at [uzma\_hamid@tamu.edu](mailto:uzma_hamid@tamu.edu)      
