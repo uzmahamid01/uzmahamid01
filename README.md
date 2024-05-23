@@ -3,7 +3,7 @@ Hi 👋 My name is Uzma Hamid
 
 <img src="https://github.com/uzmahamid01/uzmahamid01/assets/95444550/59c21d48-4615-4977-a5cb-81a93b210d24" alt="IMG_6267" width="240" height="240" align="left">
 
-Hello 🌍, I am studying Computer Science with a Cybersecurity emphasis at Texas A&M University. Let's code our way through challenges and innovate together! 💻🔐✨
+Hello 🌍, I am studying Computer Science with a Cybersecurity emphasis at Texas A&M University. I have a passion for exploring different algorithms. Let's code our way through challenges and innovate together! 💻🔐✨
 
 
 
