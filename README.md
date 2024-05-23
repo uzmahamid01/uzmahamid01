@@ -8,7 +8,7 @@ Hello 🌍, I am studying Computer Science with a Cybersecurity emphasis at Texa
 
 
 * 🧠  I am learning DSA actively and grinding leetcode.
-* 🧠  I am building an AI powered fashion stylist app.        
+* 🔭  I am building an AI powered fashion stylist app.        
 * 🤝  I'm open to collaborating on Projects.
 * 🖥️  See my portfolio at [My Portfolio](http://people.tamu.edu/~uzma_hamid)                 
 * ✉️  You can contact me at [uzma\_hamid@tamu.edu](mailto:uzma_hamid@tamu.edu)      
@@ -37,3 +37,5 @@ Hello 🌍, I am studying Computer Science with a Cybersecurity emphasis at Texa
 
 
 <a href="https://github.com/uzmahamid01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzmahamid01&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
