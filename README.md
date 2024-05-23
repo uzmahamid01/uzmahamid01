@@ -6,6 +6,7 @@ Hi 👋 My name is Uzma Hamid
 Hello 🌍, I am studying Computer Science with a Cybersecurity emphasis at Texas A&M University. Let's code our way through challenges and innovate together! 💻🔐✨
 
 
+
 * 🧠  I am learning DSA actively and grinding leetcode.               
 * 🤝  I'm open to collaborating on Projects.
 * 🖥️  See my portfolio at [My Portfolio](http://people.tamu.edu/~uzma_hamid)                 
