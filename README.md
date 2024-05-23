@@ -3,14 +3,14 @@ Hi 👋 My name is Uzma Hamid
 
 <img src="https://github.com/uzmahamid01/uzmahamid01/assets/95444550/59c21d48-4615-4977-a5cb-81a93b210d24" alt="IMG_6267" width="240" height="240" align="left">
 
-I'm a Junior studying Computer Science with a Cybersecurity emphasis at Texas A&M University. I bring a diverse background in various programming languages and technical skills. As a dedicated problem solver, I'm deeply passionate about exploring the realms of software development. Let's code our way through challenges and innovate together! 💻🔐✨
+Hello 🌍, I am studying Computer Science with a Cybersecurity emphasis at Texas A&M University. Let's code our way through challenges and innovate together! 💻🔐✨
 
 
-* 🌍  I'm based in Texas                       
-* 🖥️  See my portfolio at [My Portfolio](http://people.tamu.edu/~uzma_hamid)                                    
-* ✉️  You can contact me at [uzma\_hamid@tamu.edu](mailto:uzma_hamid@tamu.edu)          
-* 🧠  I'm learning Building rational AI agents using uninformed search
-* 🤝  I'm open to collaborating on Projects
+* 🧠  I am learning DSA actively and grinding leetcode.               
+* 🧠  I'm learning Building rational AI agents.
+* 🤝  I'm open to collaborating on Projects.
+* 🖥️  See my portfolio at [My Portfolio](http://people.tamu.edu/~uzma_hamid)                 
+* ✉️  You can contact me at [uzma\_hamid@tamu.edu](mailto:uzma_hamid@tamu.edu)      
 
 
   
