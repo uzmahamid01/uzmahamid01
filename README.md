@@ -8,6 +8,7 @@ I am studying Computer Science with a Cybersecurity emphasis at Texas A&M Univer
 
 
 * 🧠  I am learning DSA actively and grinding leetcode.
+* 🧠  I am learning React.
 * 🔭  I am building an AI powered fashion stylist app.        
 * 🤝  I'm open to collaborating on Projects.
 * 🖥️  See my portfolio at [My Portfolio](http://people.tamu.edu/~uzma_hamid)                 
