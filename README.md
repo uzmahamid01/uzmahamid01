@@ -11,7 +11,7 @@ I am studying Computer Science with a Cybersecurity emphasis at Texas A&M Univer
 *  🖥️ I am doing a AI/ML Research Internship currently(Summer 2024)
 * 🔭  I am building an AI powered fashion stylist app.        
 * 🤝  I'm open to collaborating on Projects.
-* 🖥️  See my portfolio at [My Portfolio]([http://uzmahamid.netlify.](https://uzmahamid.netlify.app/))                 
+* 🖥️  See my portfolio at [My Portfolio](https://uzmahamid.netlify.app/)                
 * ✉️  You can contact me at [uzma\_hamid@tamu.edu](mailto:uzma_hamid@tamu.edu)      
 
 
