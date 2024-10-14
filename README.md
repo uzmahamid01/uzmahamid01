@@ -37,6 +37,6 @@ I am studying Computer Science with a Cybersecurity emphasis at Texas A&M Univer
 
 
 
-<a href="https://github.com/uzmahamid01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzmahamid01&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!--<a href="https://github.com/uzmahamid01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzmahamid01&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
