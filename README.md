@@ -3,15 +3,15 @@ Hello 🌍, My name is Uzma Hamid
 
 <img src="https://github.com/uzmahamid01/uzmahamid01/assets/95444550/59c21d48-4615-4977-a5cb-81a93b210d24" alt="IMG_6267" width="240" height="240" align="left">
 
-I am studying Computer Science with a Cybersecurity emphasis at Texas A&M University. I have a passion for exploring different algorithms. Let's code our way through challenges and innovate together! 💻🔐✨
+I’m Uzma — endlessly curious. My coding journey began with Tomb Raider and grew into a passion for innovation, problem-solving, and crafting software that inspires and makes the world smarter and safer. Relentlessly optimistic and driven, I’m on a mission to push past limitations and build technology that truly wows — still figuring out the how, but that’s half the adventure.
 
 
 
-* 🧠  I am learning DSA actively and grinding leetcode.
-*  🖥️ I am doing a AI/ML Research Internship currently(Summer 2024)       
-* 🤝  I'm open to collaborating on Projects.
-* 🖥️  See my portfolio at [My Portfolio](https://uzmahamid.netlify.app/)                
-* ✉️  You can contact me at [uzma\_hamid@tamu.edu](mailto:uzma_hamid@tamu.edu)      
+* 🧠  I’m continuously learning and expanding my skills in software engineering and machine learning.
+*  🖥️ Currently working as a Software Engineer & CTO at SH.
+* 🤝  Exploring opportunities in Machine Learning Engineering, Software Engineering, and Data Engineering — open to collaboration and exciting roles.
+* 🖥️  Check out my work: [My Portfolio](https://uzmah.netlify.app/)                
+* ✉️  Reach me at: [uzma\_hamid@tamu.edu](mailto:uzma_hamid@tamu.edu)      
 
 
   
@@ -30,7 +30,11 @@ I am studying Computer Science with a Cybersecurity emphasis at Texas A&M Univer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/uzmahamid01"><img src="https://github-readme-stats.vercel.app/api?username=uzmahamid01&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="uzmahamid01's GitHub stats" /></a>
+<a href="http://www.github.com/uzmahamid01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=uzmahamid01&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+
+
+<!--<a href="http://www.github.com/uzmahamid01"><img src="https://github-readme-stats.vercel.app/api?username=uzmahamid01&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="uzmahamid01's GitHub stats" /></a>
 
 <a href="http://www.github.com/uzmahamid01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=uzmahamid01&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
