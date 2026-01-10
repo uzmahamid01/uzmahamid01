@@ -10,10 +10,8 @@ I'm endlessly curious. My coding journey began with Tomb Raider and grew into a 
 
 * 🧠  I’m continuously learning and expanding my skills in software engineering and machine learning.
 *  🖥️ Currently working as a Software Engineer & CTO at SH.
-* 🤝  Exploring opportunities in MLE, SWE, and DE, open to collaboration and exciting roles.
-* 🖥️  Check out my work: [My Portfolio](https://uzmah.netlify.app/)                
-* ✉️  Reach me at: [uzma\_hamid@tamu.edu](mailto:uzma_hamid@tamu.edu)      
-
+* 🤝  Exploring opportunities in MLE, SWE, and DE, open to collaboration and roles.
+* 🖥️  Check out my work: [My Portfolio](https://uzmahamid.netlify.app/)                
 
 
 ### Socials
