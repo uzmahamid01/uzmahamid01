@@ -8,7 +8,8 @@ I code random and cool stuff. My coding journey began with Tomb Raider and grew 
 
 * 🧠  I’m continuously learning and expanding my skills in software engineering and machine learning.
 * 🤝  Exploring opportunities in MLE, SWE, and DE, open to collaboration and roles.
-* 🖥️  Check out my work: [My Portfolio](https://uzmahamid.netlify.app/)                
+* 🖥️  Check out my work: [My Portfolio](https://uzmahamid.netlify.app/)
+*    Check this out: [YEMBERZAL](https://theyemberzal.com/)           
 
 
 ### Socials
