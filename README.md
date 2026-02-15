@@ -3,9 +3,7 @@
 
 <img src="https://github.com/uzmahamid01/uzmahamid01/assets/95444550/59c21d48-4615-4977-a5cb-81a93b210d24" alt="IMG_6267" width="240" height="240" align="left">
 
-I'm endlessly curious. My coding journey began with Tomb Raider and grew into a passion for innovation, problem-solving, and crafting software that inspires and makes the world smarter and safer. Relentlessly optimistic and driven, I’m on a mission to push past limitations and build technology that truly wows: still figuring out the how, but that’s half the adventure.
-
-
+I code random and cool stuff. My coding journey began with Tomb Raider and grew into a passion for innovation, problem-solving, and crafting software that inspires and makes the world smarter and safer. I’m on a mission to push past limitations and build technology that truly wows: still figuring out the how, but that’s half the adventure.
 
 
 * 🧠  I’m continuously learning and expanding my skills in software engineering and machine learning.
