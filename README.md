@@ -8,7 +8,8 @@ Currently into **fashion**, **robotics**, and **AI**.
 
 Founder @ **DeCru**  
 AI Engineer @ **SH**  
-MSCS @ **Stanford University**
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Stanford_Cardinal_logo.svg" width="18" /> MSCS @ **Stanford University**
+
 
 ---
 
@@ -21,26 +22,6 @@ MSCS @ **Stanford University**
 
 
 
-`<hello world>, uzma here`
-==================================================================================================================================
-
-<img src="https://github.com/uzmahamid01/uzmahamid01/assets/95444550/59c21d48-4615-4977-a5cb-81a93b210d24" alt="IMG_6267" width="240" height="240" align="left">
-
-I code random and cool stuff. I love fashion and robotics. 
-
-Founder: @DeCru
-AI Engineer @SH
-MSCS: Stanford University
-
-*           
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/uzmahamid01" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/uzma-hamid-46b2ab219/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/uzmahamid01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=uzmahamid01&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
 <!--### Badges
