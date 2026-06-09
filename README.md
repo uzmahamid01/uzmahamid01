@@ -6,10 +6,9 @@
 I build random, useful, and sometimes very cool things.  
 Currently into **fashion**, **robotics**, and **AI**.
 
-Founder @ <img src="./assets/decru-logo.png" width="10" /> **DeCru**  
-AI Engineer @ <img src="./assets/shielded-haven-logo.png" width="10" /> **SH**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Stanford_Cardinal_logo.svg" width="10" /> MSCS @ **Stanford University**
-
+Founder @ <img src="https://www.decru.co/dc.png" width="10" style="vertical-align:middle;" /> **DeCru**  
+AI Engineer @ <img src="https://www.google.com/s2/favicons?domain=shieldedhaven.com&sz=64" width="10" style="vertical-align:middle;" /> **SH**  
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Stanford_Cardinal_logo.svg" width="10" style="vertical-align:middle;" /> MSCS @ **Stanford University**
 
 ---
 
