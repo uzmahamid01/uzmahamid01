@@ -8,7 +8,7 @@ Currently into **fashion**, **robotics**, and **AI**.
 
 Founder @ **DeCru**  
 AI Engineer @ **SH**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Stanford_Cardinal_logo.svg" width="8" /> MSCS @ **Stanford University**
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Stanford_Cardinal_logo.svg" width="10" /> MSCS @ **Stanford University**
 
 
 ---
