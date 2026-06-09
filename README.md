@@ -1,6 +1,7 @@
-### `<hello world>` — uzma here ˚ʚ♡ɞ˚
+`<hello world>, uzma here`
+==================================================================================================================================
 
-<img src="https://github.com/uzmahamid01/uzmahamid01/assets/95444550/59c21d48-4615-4977-a5cb-81a93b210d24" width="180" align="right" />
+<img src="https://github.com/uzmahamid01/uzmahamid01/assets/95444550/59c21d48-4615-4977-a5cb-81a93b210d24" alt="IMG_6267" width="240" height="240" align="left">
 
 I build random, useful, and sometimes very cool things.  
 Currently into **fashion**, **robotics**, and **AI**.
@@ -11,21 +12,10 @@ MSCS @ **Stanford University**
 
 ---
 
-#### little things about me
+### Socials
 
-- always learning software engineering + machine learning
-- exploring MLE, SWE, and DE opportunities
-- building ideas that feel fun, useful, and a little different
-
-[portfolio](https://uzmahamid.netlify.app/) · [yemberzal](https://theyemberzal.com/)
-
----
-
-#### socials
-
-[github](https://www.github.com/uzmahamid01) · [linkedin](https://www.linkedin.com/in/uzma-hamid-46b2ab219/)
-
----
+<p align="left"> <a href="https://www.github.com/uzmahamid01" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/uzma-hamid-46b2ab219/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<b>My GitHub Stats</b>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=uzmahamid01&hide_border=true" />
 
