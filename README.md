@@ -6,8 +6,8 @@
 I build random, useful, and sometimes very cool things.  
 Currently into **fashion**, **robotics**, and **AI**.
 
-Founder @ **DeCru**  
-AI Engineer @ **SH**  
+Founder @ <img src="./assets/decru-logo.png" width="10" /> **DeCru**  
+AI Engineer @ <img src="./assets/shielded-haven-logo.png" width="10" /> **SH**  
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Stanford_Cardinal_logo.svg" width="10" /> MSCS @ **Stanford University**
 
 
