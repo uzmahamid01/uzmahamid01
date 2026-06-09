@@ -1,3 +1,36 @@
+### `<hello world>` — uzma here ˚ʚ♡ɞ˚
+
+<img src="https://github.com/uzmahamid01/uzmahamid01/assets/95444550/59c21d48-4615-4977-a5cb-81a93b210d24" width="180" align="right" />
+
+I build random, useful, and sometimes very cool things.  
+Currently into **fashion**, **robotics**, and **AI**.
+
+Founder @ **DeCru**  
+AI Engineer @ **SH**  
+MSCS @ **Stanford University**
+
+---
+
+#### little things about me
+
+- always learning software engineering + machine learning
+- exploring MLE, SWE, and DE opportunities
+- building ideas that feel fun, useful, and a little different
+
+[portfolio](https://uzmahamid.netlify.app/) · [yemberzal](https://theyemberzal.com/)
+
+---
+
+#### socials
+
+[github](https://www.github.com/uzmahamid01) · [linkedin](https://www.linkedin.com/in/uzma-hamid-46b2ab219/)
+
+---
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=uzmahamid01&hide_border=true" />
+
+
+
 `<hello world>, uzma here`
 ==================================================================================================================================
 
@@ -9,10 +42,7 @@ Founder: @DeCru
 AI Engineer @SH
 MSCS: Stanford University
 
-* 🧠  I’m continuously learning and expanding my skills in software engineering and machine learning.
-* 🤝  Exploring opportunities in MLE, SWE, and DE, open to collaboration and roles.
-* 🖥️  Check out my work: [My Portfolio](https://uzmahamid.netlify.app/)
-*    Check this out: [YEMBERZAL](https://theyemberzal.com/)           
+*           
 
 
 ### Socials
