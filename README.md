@@ -36,10 +36,9 @@
 ```ts
 const uzma = {
   name       : "Uzma Hamid",
-  location   : "Seattle, WA",
+  location   : "San Francisco, California",
   education  : "MSCS @ Stanford University",
   building   : "DeCru: fashion meets technology",
-  role       : "AI Engineer @ SH",
 } satisfies Developer;
 ```
 
